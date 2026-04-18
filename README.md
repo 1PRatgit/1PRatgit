@@ -40,8 +40,7 @@ I am a developer with over **2.5 years of experience** dedicated to building sca
 I am currently looking for new opportunities and interesting collaborations. Feel free to reach out if you’d like to discuss tech, projects, or potential roles!
 
 * **GitHub:** [@1PRatgit](https://github.com/1PRatgit)
-* **LinkedIn:** [Insert your LinkedIn profile link here]
-* **Email:** [Insert your email address here]
+
 
 ---
 
