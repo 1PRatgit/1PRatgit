@@ -43,5 +43,6 @@ I am currently looking for new opportunities and interesting collaborations. Fee
 
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=1PRatgit&label=Profile%20Views&color=0e75b6&style=flat)
 
 *“Code is like humor. When you have to explain it, it’s bad.”* — **Happy Coding!**
